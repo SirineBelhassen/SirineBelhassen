@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Sirine Belhassen!
 
-I am a **Software Engineer** specialized in **Full-Stack Web Development** and **Generative AI**, with professional experience building robust web applications and microservices architectures. I hold a unique engineering background combining Electromechanics and Computer Science from ESPRIT.
+I am a **Software Engineer** specialized in **Full-Stack Web Development** and **Generative AI**, with professional experience building robust web applications and microservices architectures. I hold a unique engineering background combining Electromechanics and Computer Science from ESPRIT.I am autonomous, detail-oriented, and always eager to tackle complex engineering challenges.
 
 ---
 
