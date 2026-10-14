@@ -12,7 +12,7 @@ I am a **Software Engineer** specialized in **Full-Stack Web Development** and *
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 * **Backend:** Java 17, Spring Boot, Spring, Hibernate, JPA, REST APIs, Microservices, Netflix Eureka
-* **Frontend:** Angular 16, TypeScript, JavaScript, HTML5, CSS3, Responsive Design[cite: 2]
+* **Frontend:** Angular 16, TypeScript, JavaScript, HTML5, CSS3, Responsive Design
 * **Artificial Intelligence:** Generative AI, Large Language Models (LLMs), LLaMA, Prompt Engineering, NLP
 * **Databases & DevOps:** MySQL, MongoDB, Docker, Jenkins, Git, Linux, SonarQube, Nexus, VPS
 
@@ -32,5 +32,5 @@ I am a **Software Engineer** specialized in **Full-Stack Web Development** and *
 
 ### 📫 Connect with Me
 
-* **Email:** [sirina.belhassen@gmail.com](mailto:sirina.belhassen@gmail.com)[cite: 2]
-* **LinkedIn:** [linkedin.com/in/sirine-belhassen](https://www.linkedin.com/in/sirine-belhassen)[cite: 2]
+* **Email:** [sirina.belhassen@gmail.com](mailto:sirina.belhassen@gmail.com)
+* **LinkedIn:** [linkedin.com/in/sirine-belhassen](https://www.linkedin.com/in/sirine-belhassen)
